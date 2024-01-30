@@ -1,0 +1,12 @@
+{
+    "name": "Chuck Norris",
+    "version": "1.0.0",
+    "description": "Complete joke",
+    "manifest_version": 3,
+    "author": "Varad Kulkarni",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Chuck Norris"
+    }
+
+}
